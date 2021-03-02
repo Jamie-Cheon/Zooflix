@@ -16,5 +16,6 @@ Building a Movie Discovery App using ReactJS and ES6.
 - [x] Popular (Movie, TV)
 - [x] Top Rated (TV)
 - [x] Airing Today (TV)
-- [ ] TV show Detail
-- [ ] Movie Detail
+- [x] TV show Detail
+- [x] Movie Detail
+- [x] Search (Movie, TV)
