@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/zooflix/static/js/main.e403b5cf.chunk.js",
-    "main.js.map": "/zooflix/static/js/main.e403b5cf.chunk.js.map",
-    "runtime-main.js": "/zooflix/static/js/runtime-main.8523d304.js",
-    "runtime-main.js.map": "/zooflix/static/js/runtime-main.8523d304.js.map",
-    "static/js/2.71eb4588.chunk.js": "/zooflix/static/js/2.71eb4588.chunk.js",
-    "static/js/2.71eb4588.chunk.js.map": "/zooflix/static/js/2.71eb4588.chunk.js.map",
-    "index.html": "/zooflix/index.html",
-    "static/js/2.71eb4588.chunk.js.LICENSE.txt": "/zooflix/static/js/2.71eb4588.chunk.js.LICENSE.txt"
+    "main.js": "/Zooflix/static/js/main.e403b5cf.chunk.js",
+    "main.js.map": "/Zooflix/static/js/main.e403b5cf.chunk.js.map",
+    "runtime-main.js": "/Zooflix/static/js/runtime-main.e2e078ea.js",
+    "runtime-main.js.map": "/Zooflix/static/js/runtime-main.e2e078ea.js.map",
+    "static/js/2.1e9bbcfa.chunk.js": "/Zooflix/static/js/2.1e9bbcfa.chunk.js",
+    "static/js/2.1e9bbcfa.chunk.js.map": "/Zooflix/static/js/2.1e9bbcfa.chunk.js.map",
+    "index.html": "/Zooflix/index.html",
+    "static/js/2.1e9bbcfa.chunk.js.LICENSE.txt": "/Zooflix/static/js/2.1e9bbcfa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8523d304.js",
-    "static/js/2.71eb4588.chunk.js",
+    "static/js/runtime-main.e2e078ea.js",
+    "static/js/2.1e9bbcfa.chunk.js",
     "static/js/main.e403b5cf.chunk.js"
   ]
 }
