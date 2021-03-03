@@ -2,6 +2,8 @@
 
 Building a Movie Discovery App using ReactJS and ES6.
 
+http://jamie-cheon.github.io/Zooflix
+
 ## Screens
 
 - [ ] Home
